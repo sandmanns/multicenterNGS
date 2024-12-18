@@ -16,6 +16,8 @@ To determine our sequencing score, we defined several thresholds, identifying lo
 ## Requirements
 To run the Shiny app, you need R Version 4.1.0 or higher.
 
+Download the RData-files ofInterest.RData (https://uni-muenster.sciebo.de/s/xNl1hIXmhbaMQip) and intersecting.RData (https://uni-muenster.sciebo.de/s/OQKXPSF0Gi02VpT). Make sure they lie in the same folder as server.R and ui.R when you execute the Shiny app.
+
 ## Detailed information
 For detailed information on the harmonization of NGS studies, please consider our publication (https://doi.org/10.1016/j.jmoldx.2020.12.001).
 
