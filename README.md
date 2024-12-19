@@ -4,7 +4,7 @@
     <img height="500" src="https://uni-muenster.sciebo.de/s/Yqv8hcXYvcHryZD/download">
 </p>
 
-Sandmann S, de Graaf AO, Tobiasson M, Kosmider O, Abáigar M, Clappier E, Gallì A, van der Reijden BA, Malcovati L, Fenaux P, Díez-Campelo M, Fontenay M, Hellström-Lindberg E, Jansen JH, Dugas M. Multicenter Next-Generation Sequencing Studies between Theory and Practice: Harmonization of Data Analysis Using Real-World Myelodysplastic Syndrome Data. J Mol Diagn. 2021 Mar;23(3):347-357. doi: 10.1016/j.jmoldx.2020.12.001. Epub 2020 Dec 23. PMID: 33359455.
+Sandmann S, de Graaf AO, Tobiasson M, Kosmider O, Abáigar M, Clappier E, Gallì A, van der Reijden BA, Malcovati L, Fenaux P, Díez-Campelo M, Fontenay M, Hellström-Lindberg E, Jansen JH, Dugas M. Multicenter Next-Generation Sequencing Studies between Theory and Practice: Harmonization of Data Analysis Using Real-World Myelodysplastic Syndrome Data. J Mol Diagn. 2021 Mar;23(3):347-357. doi: 10.1016/j.jmoldx.2020.12.001.
 
 ## Background
 
@@ -22,3 +22,6 @@ Download the RData-files ofInterest.RData (https://uni-muenster.sciebo.de/s/xNl1
 For detailed information on the harmonization of NGS studies, please consider our publication (https://doi.org/10.1016/j.jmoldx.2020.12.001).
 
 In case of errors or feature requests, do not hesitate to open an issue or contact Sarah Sandmann (sarah.sandmann@uni-muenster.de).
+
+## Citation
+Sandmann S, de Graaf AO, Tobiasson M, Kosmider O, Abáigar M, Clappier E, Gallì A, van der Reijden BA, Malcovati L, Fenaux P, Díez-Campelo M, Fontenay M, Hellström-Lindberg E, Jansen JH, Dugas M. Multicenter Next-Generation Sequencing Studies between Theory and Practice: Harmonization of Data Analysis Using Real-World Myelodysplastic Syndrome Data. J Mol Diagn. 2021 Mar;23(3):347-357. doi: 10.1016/j.jmoldx.2020.12.001.
